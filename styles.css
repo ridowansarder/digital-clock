@@ -14,7 +14,7 @@ body{
   height: 100vh;
 }
 #clock{
-  font-size: 6rem;
+  font-size: 4rem;
   color: white;
   font-family: monospace;
   font-weight: bold;
